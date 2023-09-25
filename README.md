@@ -1,5 +1,6 @@
 ### 안녕하세요👋  개발자를 꿈꾸는 한상훈입니다.😎
-### 저는 새로 배우는 것을 좋아하고
+### 저는 새로운 기술들을 배우는 것을 좋아하고
+### 적용하는 것에 흥미를 느낍니다😆 
 <!--
 **hasahooy/hasahooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
