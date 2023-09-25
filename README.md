@@ -20,8 +20,8 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=React&logoColor=white"/>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=random&height=200&section=footer&text=&fontSize=30" />
