@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=random&height=200&section=header&text=hasahooy&fontSize=30" />
 <div align=center>
-
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
