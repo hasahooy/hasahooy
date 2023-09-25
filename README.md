@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요👋  개발자를 꿈꾸는 한상훈입니다.😎
+### 저는 새로 배우는 것을 좋아하고
 <!--
 **hasahooy/hasahooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=random&height=200&section=header&text=hasahooy&fontSize=30" />
+
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=random&height=200&section=footer&text=&fontSize=30" />
