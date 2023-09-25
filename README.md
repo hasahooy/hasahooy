@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👏사용해본 기술👏
+
 <img src="https://capsule-render.vercel.app/api?type=shark&color=random&height=200&section=header&text=hasahooy&fontSize=30" />
+### 👏사용해본 기술👏
 <div align=center>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=React&logoColor=white"/>
