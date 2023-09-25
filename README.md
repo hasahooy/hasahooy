@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
